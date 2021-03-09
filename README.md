@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrabiswal&layout=compact)
 
-<!--
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=shubhrabiswal&repo=python_cd&show_owner=true)](https://github.com/shubhrabiswal/python_cd) -->
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=shubhrabiswal&repo=
+shubhrabiswal_tep-challenge-30003-css-selectors
+&show_owner=true)](https://github.com/shubhrabiswal/
+shubhrabiswal_tep-challenge-30003-css-selectors) 
 
