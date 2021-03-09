@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shubhrabiswal&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhrabiswal&layout=compact)
-
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=shubhrabiswal&repo=repo-name)](https://github.com/shubhrabiswal/repo-name)
+<!--
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=shubhrabiswal&repo=repo-name&show_owner=true)](https://github.com/shubhrabiswal/repo-name) -->
